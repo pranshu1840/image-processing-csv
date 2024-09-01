@@ -8,8 +8,8 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repository-url>
-   cd <your-repository-directory>
+   git clone https://github.com/pranshu1840/image-processing-csv.git
+   cd image-processing-csv
    ```
 
 2. **Install Dependencies**:
