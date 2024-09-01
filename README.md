@@ -1,6 +1,6 @@
 # Image Processing CSV
 
-Welcome to the Image Processing Web App! This project allows you to upload CSV files containing image URLs, process those images, and manage the results through a web interface.
+Welcome to the Image Processing CSV. This project allows you to upload CSV files containing image URLs, process those images, and download the CSV that contains the links of compressed image.
 
 ## Installation
 
