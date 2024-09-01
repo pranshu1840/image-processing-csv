@@ -38,7 +38,9 @@ To get started with this project, follow these steps:
 Before running the application, you need to set up the following environment variables:
 
   MONGO_URL: The connection string for your MongoDB database.
+  
   URL: The base URL for your application.
+  
   PORT: The port on which the application will run (default is 3000).
 
 ## Troubleshooting
