@@ -1,6 +1,6 @@
 # Image Processing CSV
 
-Welcome to the Image Processing CSV. This project allows you to upload CSV files containing image URLs, process those images, and download the CSV that contains the links of compressed image.
+Welcome to the Image Processing CSV project. This project allows you to upload CSV files containing image URLs, process those images, and download the CSV that contains the links of compressed image.
 
 ## Installation
 
